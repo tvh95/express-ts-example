@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Example for express typescript",
   "main": "index.js",
-  "repository": "https://github.com/tvh95/Express-ts-example.git",
+  "repository": "https://github.com/tvh95/express-ts-example.git",
   "author": "Tan Vee Han | veehan95@gmail.com",
   "license": "MIT",
   "private": true,
