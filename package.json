@@ -1,0 +1,19 @@
+{
+  "name": "expressjs-ts-example",
+  "version": "1.0.0",
+  "description": "Example for express typescript",
+  "main": "index.js",
+  "repository": "https://github.com/tvh95/Express-ts-example.git",
+  "author": "Tan Vee Han | veehan95@gmail.com",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "tsc"
+  },
+  "dependencies": {
+    "@types/express": "^4.17.17",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "typescript": "^4.9.5"
+  }
+}
